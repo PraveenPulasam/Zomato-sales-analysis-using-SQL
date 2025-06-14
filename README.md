@@ -1,10 +1,10 @@
-# 🍽 Zomato Sales SQL Project
+#  Zomato Sales SQL Project
 
 This is a beginner-to-intermediate level SQL project designed for Data Analyst portfolio building. The dataset simulates Zomato's restaurant sales, including customer details, orders, menu items, and restaurant info.
 
 ---
 
-## 📊Project Objective
+## Project Objective
 
 To perform **sales analysis** using SQL by answering 14 real-world business questions related to customer behavior, menu performance, revenue tracking, and restaurant performance.
 
