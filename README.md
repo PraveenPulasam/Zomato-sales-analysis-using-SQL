@@ -44,7 +44,6 @@ To perform **sales analysis** using SQL by answering 14 real-world business ques
 - Window Functions
 - Group By, Order By
 - Date Functions
-- Subqueries
 - Ranking & Filtering
 
 ---
